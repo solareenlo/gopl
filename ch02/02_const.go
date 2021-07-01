@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	consts := []string {
+	consts := []string{
 		"true",
 		"false",
 		"iota",

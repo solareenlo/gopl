@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	funcs := []string {
+	funcs := []string{
 		"make",
 		"len",
 		"cap",

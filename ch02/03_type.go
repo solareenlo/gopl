@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	types := []string {
+	types := []string{
 		"int",
 		"int8",
 		"int16",
